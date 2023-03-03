@@ -9,11 +9,11 @@ void solve(int n)
 
             if ((i + j) % 2 == 0)
             {
-                cout << "1";
+                cout << "1 ";
             }
             else
             {
-                cout << "0";
+                cout << "0 ";
             }
         }
 
